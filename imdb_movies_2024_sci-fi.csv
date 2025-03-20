@@ -1,0 +1,604 @@
+Movie Name,Genre,Duration,Rating,Vote Counts
+The Substance,sci-fi,2h 21m,7.3,280K
+Sonic the Hedgehog 3,sci-fi,1h 50m,6.9,52K
+Venom: The Last Dance,sci-fi,1h 50m,6.0,107K
+The Wild Robot,sci-fi,1h 42m,8.2,152K
+Dune: Part Two,sci-fi,2h 46m,8.5,613K
+Elevation,sci-fi,1h 31m,5.6,20K
+Furiosa: A Mad Max Saga,sci-fi,2h 28m,7.5,280K
+Deadpool & Wolverine,sci-fi,2h 8m,7.6,480K
+The Day the Earth Blew Up: A Looney Tunes Movie,sci-fi,1h 31m,7.0,2K
+Borderlands,sci-fi,1h 41m,4.7,45K
+The Life of Chuck,sci-fi,1h 50m,7.7,460
+Alien: Romulus,sci-fi,1h 59m,7.1,238K
+Subservience,sci-fi,1h 46m,5.4,26K
+Despicable Me 4,sci-fi,1h 34m,6.2,62K
+Megalopolis,sci-fi,2h 18m,4.7,34K
+Kingdom of the Planet of the Apes,sci-fi,2h 25m,6.9,149K
+Transformers One,sci-fi,1h 44m,7.6,47K
+A Quiet Place: Day One,sci-fi,1h 39m,6.3,145K
+It's What's Inside,sci-fi,1h 43m,6.6,41K
+Ghostbusters: Frozen Empire,sci-fi,1h 55m,6.1,92K
+Caddo Lake,sci-fi,1h 43m,6.8,40K
+Madame Web,sci-fi,1h 56m,4.0,99K
+Godzilla x Kong: The New Empire,sci-fi,1h 55m,6.1,119K
+Wallace & Gromit: Vengeance Most Fowl,sci-fi,1h 22m,7.5,33K
+Distant,sci-fi,1h 27m,5.7,3K
+Y2K,sci-fi,1h 31m,4.9,N/A
+The Shrouds,sci-fi,1h 59m,5.8,735
+Spaceman,sci-fi,1h 47m,5.7,42K
+Uglies,sci-fi,1h 40m,4.7,32K
+The Assessment,sci-fi,1h 49m,7.2,456
+Arcadian,sci-fi,1h 32m,5.5,22K
+Apocalypse Z: The Beginning of the End,sci-fi,1h 57m,6.1,19K
+Kalki 2898 AD,sci-fi,3h,N/A,N/A
+Slingshot,sci-fi,1h 48m,5.7,N/A
+Time Cut,sci-fi,1h 31m,5.0,18K
+The Silent Planet,sci-fi,1h 35m,4.8,179
+The Empire,sci-fi,1h 50m,5.2,N/A
+Atlas,sci-fi,1h 58m,5.6,55K
+Survive,sci-fi,1h 30m,4.6,N/A
+Afraid,sci-fi,1h 24m,5.2,13K
+Things Will Be Different,sci-fi,1h 42m,5.2,N/A
+Watchmen: Chapter I,sci-fi,1h 23m,7.0,N/A
+Love Me,sci-fi,1h 31m,5.2,N/A
+Rebel Moon - Part Two: The Scargiver,sci-fi,2h 2m,5.3,59K
+The End,sci-fi,2h 28m,5.5,N/A
+We're All Gonna Die,sci-fi,1h 50m,8.4,79
+Levels,sci-fi,1h 33m,5.0,N/A
+The Platform 2,sci-fi,1h 39m,4.9,39K
+Die Alone,sci-fi,1h 31m,5.7,N/A
+Omni Loop,sci-fi,1h 52m,5.5,N/A
+Trapped Inn,sci-fi,1h 55m,2.8,886
+Rich Flu,sci-fi,1h 56m,6.5,N/A
+Last Night on Earth,sci-fi,1h 26m,4.8,332
+Sting,sci-fi,1h 31m,5.7,16K
+Breathe,sci-fi,1h 33m,4.2,7K
+Lumina,sci-fi,1h 53m,2.1,638
+Agent Recon,sci-fi,1h 25m,2.4,658
+V/H/S/Beyond,sci-fi,1h 54m,N/A,N/A
+Watchmen: Chapter II,sci-fi,1h 30m,7.0,N/A
+Megamind vs. The Doom Syndicate,sci-fi,1h 23m,2.5,N/A
+Turn Me On,sci-fi,1h 39m,5.6,437
+South of Hope Street,sci-fi,1h 41m,6.5,N/A
+Moon Maidens 2,sci-fi,1h 9m,3.7,29
+Code 8: Part II,sci-fi,1h 40m,5.7,16K
+My Hero Academia: You're Next,sci-fi,1h 50m,7.0,N/A
+Justice League: Crisis on Infinite Earths - Part One,sci-fi,1h 33m,6.2,N/A
+City Hunter,sci-fi,1h 42m,6.3,N/A
+Year 10,sci-fi,1h 36m,5.4,N/A
+The Greatest Hits,sci-fi,1h 34m,6.2,N/A
+Badland Hunters,sci-fi,1h 47m,5.9,12K
+Justice League: Crisis on Infinite Earths - Part Three,sci-fi,1h 34m,6.1,N/A
+Street Trash,sci-fi,1h 25m,4.4,749
+Drive Back,sci-fi,1h 34m,N/A,N/A
+Replicator,sci-fi,1h 15m,4.1,112
+The Fix,sci-fi,1h 38m,4.6,N/A
+Arena Wars,sci-fi,1h 36m,4.9,2K
+Guest from the Future,sci-fi,2h 21m,6.0,N/A
+Ick,sci-fi,1h 27m,5.6,196
+Unspeakable: Beyond the Wall of Sleep,sci-fi,1h 30m,5.9,37
+Timestalker,sci-fi,1h 29m,5.5,N/A
+Ultraman: Rising,sci-fi,1h 57m,6.9,N/A
+Can I Get a Witness,sci-fi,1h 50m,6.8,63
+Wonderland,sci-fi,1h 53m,6.2,N/A
+Doraemon the Movie: Nobita's Earth Symphony,sci-fi,1h 55m,6.6,N/A
+Parallel,sci-fi,1h 28m,5.3,N/A
+Latency,sci-fi,1h 34m,4.2,N/A
+The Thundermans Return,sci-fi,1h 10m,5.0,N/A
+Mars,sci-fi,1h 24m,8.9,19
+The Thinking Game,sci-fi,1h 24m,7.9,109
+Justice League: Crisis on Infinite Earths - Part Two,sci-fi,1h 34m,5.5,N/A
+Sentinel,sci-fi,1h 30m,2.6,750
+Fight Another Day,sci-fi,1h 37m,5.1,326
+Terminator: Skynet Rising,sci-fi,1h 28m,6.8,258
+Alien: Rubicon,sci-fi,1h 26m,2.4,329
+J Loop,sci-fi,1h 39m,5.3,163
+X Files,sci-fi,1h 14m,1.9,60
+Meanwhile on Earth,sci-fi,1h 29m,6.0,870
+Alien Weekend,sci-fi,1h 35m,5.3,136
+Test Screening,sci-fi,1h 32m,6.9,64
+Teri Baaton Mein Aisa Uljha Jiya,sci-fi,2h 21m,6.2,54K
+Baby Invasion,sci-fi,1h 20m,5.8,63
+Peripheral,sci-fi,1h 28m,9.4,22
+Maid Droid Origins,sci-fi,1h 36m,3.0,312
+Another End,sci-fi,2h 9m,6.5,704
+Uranus 2324,sci-fi,2h 10m,6.5,N/A
+Previously Saved Version,sci-fi,1h 57m,5.5,401
+40 Acres,sci-fi,1h 53m,6.5,101
+Light,sci-fi,1h 33m,2.7,N/A
+Daniela Forever,sci-fi,1h 53m,6.3,199
+Futra Days,sci-fi,1h 39m,4.1,138
+All the Lost Ones,sci-fi,1h 45m,3.8,226
+War of the Worlds: Extinction,sci-fi,1h 24m,3.0,177
+Tim Travers & the Time Travelers Paradox,sci-fi,1h 35m,6.9,273
+"Canadian, Sniper",sci-fi,1h 23m,3.5,346
+Justicia artificial,sci-fi,1h 38m,5.6,406
+The Last Ronin,sci-fi,2h 1m,4.9,226
+U Are the Universe,sci-fi,1h 30m,7.8,232
+Black,sci-fi,1h 55m,7.1,N/A
+Black Eyed Susan,sci-fi,1h 25m,5.0,308
+Bade Miyan Chote Miyan,sci-fi,2h 43m,N/A,N/A
+Bionic,sci-fi,1h 50m,4.3,N/A
+Going Viral,sci-fi,1h 30m,6.8,50
+Desert Road,sci-fi,1h 30m,6.7,154
+Lesbian Space Princess,sci-fi,1h 27m,8.1,96
+Balestra,sci-fi,2h 25m,5.1,511
+UI,sci-fi,2h 15m,6.9,N/A
+Escape from the 21st Century,sci-fi,1h 38m,6.5,813
+The Invisibles,sci-fi,1h 51m,5.9,453
+Ghost Planet,sci-fi,1h 25m,4.8,254
+Cora,sci-fi,1h 40m,4.7,789
+Planet B,sci-fi,1h 58m,5.4,139
+Psychonaut,sci-fi,1h 27m,7.6,12
+Babezilla vs the Cyber Skanks: Rise of MechaBabezilla,sci-fi,N/A,6.5,42
+Alienoid: The Return to the Future,sci-fi,2h 2m,6.5,N/A
+The Bunker,sci-fi,1h 32m,7.1,43
+Else,sci-fi,1h 40m,6.1,223
+Tacoma,sci-fi,1h 43m,3.5,166
+No Time to Spy: A Loud House Movie,sci-fi,1h 21m,6.4,435
+Somnium,sci-fi,1h 32m,8.6,38
+Sci-Fi Vixens from Beyond,sci-fi,1h 14m,4.1,43
+Bureau 749,sci-fi,2h 3m,4.1,503
+Ayalaan,sci-fi,2h 35m,N/A,N/A
+Remnant,sci-fi,1h 52m,N/A,N/A
+Unexposed,sci-fi,1h 3m,7.6,61
+Mummy Shark,sci-fi,1h 6m,2.0,168
+How to Solve Your Own Murder,sci-fi,1h 39m,7.6,41
+S.T.A.L.K.E..: Shadow of the Zone,sci-fi,1h 12m,N/A,N/A
+To the Journey: Looking Back at Star Trek: Voyager,sci-fi,N/A,8.4,9
+Mobile Suit Gundam SEED Freedom,sci-fi,2h 4m,6.6,924
+Gaami,sci-fi,2h 27m,N/A,N/A
+The Phantom Warrior,sci-fi,1h 59m,2.4,552
+Space Sharks,sci-fi,1h 10m,1.5,312
+The Alien Report,sci-fi,1h 21m,4.6,151
+"Aire, Just Breathe",sci-fi,1h 38m,4.7,185
+Space Command Redemption,sci-fi,2h 2m,4.5,151
+Clone Cops,sci-fi,1h 36m,8.1,185
+Blink,sci-fi,2h 16m,7.0,N/A
+www.RachelOrmont.com,sci-fi,1h 20m,3.4,31
+Good Neighbours,sci-fi,1h 24m,3.1,160
+Buddy,sci-fi,2h 17m,3.8,340
+Ape X Mecha Ape: New World Order,sci-fi,1h 27m,N/A,N/A
+Saturn,sci-fi,1h 40m,7.4,28
+Bury Your Dead,sci-fi,2h 8m,5.4,75
+Offworld: Alien Planet,sci-fi,1h 32m,3.6,112
+You Are Not Alone,sci-fi,1h 45m,6.2,61
+Invasión,sci-fi,1h 31m,3.7,46
+Metro9,sci-fi,N/A,N/A,N/A
+Schirkoa: In Lies We Trust,sci-fi,1h 43m,5.6,153
+In Vitro,sci-fi,1h 29m,6.4,114
+Jon Vardar protiv Galaksijata,sci-fi,1h 26m,8.9,60
+Big City Greens the Movie: Spacecation,sci-fi,N/A,6.2,530
+Neon Fear,sci-fi,40m,6.1,388
+Raduaa Returns,sci-fi,2h 17m,5.4,66
+Addy Daddy,sci-fi,1h 58m,7.8,26
+THEDÆMON,sci-fi,1h 27m,6.9,37
+Earthquake Underground,sci-fi,1h 23m,3.3,189
+Staycation,sci-fi,1h 34m,7.1,102
+Lunacy,sci-fi,1h 17m,5.0,60
+Re:Human,sci-fi,1h 48m,5.8,40
+Dead Dead Demon's Dededede Destruction,sci-fi,2h,7.0,137
+Descendent,sci-fi,N/A,N/A,N/A
+Taklee Genesis x Worlds Collide,sci-fi,2h 26m,5.5,382
+Don't F**k with Ghosts,sci-fi,N/A,7.4,198
+Andromeda: 1883,sci-fi,N/A,3.5,15
+Buying Time,sci-fi,1h 24m,7.0,259
+Jurassic Triangle,sci-fi,1h 24m,2.5,277
+Isla Monstro,sci-fi,N/A,N/A,N/A
+Touchdown,sci-fi,1h 18m,6.8,13
+The Strange Dark,sci-fi,1h 24m,9.1,36
+Captain Avispa,sci-fi,1h 36m,N/A,N/A
+Night of the Skinwalkers,sci-fi,1h 34m,2.5,707
+Agapouse ta louloudia perissotero,sci-fi,1h 26m,5.3,177
+Aftermath,sci-fi,1h 18m,5.4,N/A
+False Front,sci-fi,2h,N/A,N/A
+Alien Country,sci-fi,1h 36m,4.4,349
+Oculus,sci-fi,1h 53m,6.0,15
+Taisu Xilie,sci-fi,1h 40m,N/A,N/A
+Dragon Ball Z Kai,sci-fi,1h 22m,8.4,65
+C'est le monde à l'envers !,sci-fi,1h 54m,5.3,86
+Creep Encounters,sci-fi,1h 30m,6.2,61
+Killer Witches from Outer Space,sci-fi,N/A,7.1,77
+The A-Frame,sci-fi,1h 22m,7.2,36
+Guy Manley: Super Spy,sci-fi,1h 32m,4.5,115
+Infinite Summer,sci-fi,1h 26m,5.4,83
+Project Dorothy,sci-fi,1h 20m,4.0,N/A
+Rahasyam Idham Jagath,sci-fi,2h 33m,7.5,49
+Permafrost,sci-fi,1h 20m,5.7,112
+From Within,sci-fi,N/A,N/A,N/A
+Dark Fusion,sci-fi,1h 30m,8.5,233
+Mutant,sci-fi,1h 30m,4.5,58
+Anunnakiler,sci-fi,1h 16m,2.6,430
+The Dugout,sci-fi,1h 54m,5.5,747
+Future Date,sci-fi,1h 22m,6.6,120
+Dark My Light,sci-fi,N/A,N/A,N/A
+Sign Here,sci-fi,1h 40m,6.2,243
+Abaddon's Pit,sci-fi,1h 33m,6.0,38
+Vampire Zombies... From Space!,sci-fi,1h 38m,7.6,59
+Through the Door,sci-fi,N/A,6.7,6
+Venus Effect,sci-fi,N/A,6.0,18
+Quadrant,sci-fi,1h 13m,4.3,138
+UmroAyyar - A New Beginning,sci-fi,2h 15m,6.9,669
+Operation War Thunder,sci-fi,1h 14m,5.3,116
+The Epidemic,sci-fi,1h 35m,5.8,69
+Alien Hunt,sci-fi,1h 20m,3.1,133
+Isleen Pines,sci-fi,1h 24m,5.2,539
+Star Abyss,sci-fi,1h 26m,3.8,241
+SCP: The Infinite Mission,sci-fi,N/A,6.3,14
+Revival,sci-fi,N/A,7.1,8
+Spark,sci-fi,1h 50m,5.3,50
+Wonderful Precure! The Movie! Doki Doki Game no Sekai de Daiboken,sci-fi,1h 11m,7.0,26
+Electric Child,sci-fi,1h 58m,6.3,64
+Gaganachari,sci-fi,1h 55m,6.9,N/A
+It All Comes with the Cold Water,sci-fi,1h 28m,8.3,148
+Traces of Love,sci-fi,1h 45m,6.5,901
+"Die, Daisy, Die!",sci-fi,1h 30m,N/A,N/A
+Valensole,sci-fi,N/A,N/A,N/A
+The Secret of Pin-Up Island,sci-fi,1h 47m,7.4,92
+War of the Ninja Monsters: Jaron vs Goura,sci-fi,55m,N/A,N/A
+The 3_2 Pulldown,sci-fi,N/A,7.7,12
+Our Man in L.A.,sci-fi,1h 11m,4.8,121
+Arctic Hollow,sci-fi,1h 10m,2.3,179
+Fuuto PI: Portrait of Kamen Rider Skull,sci-fi,1h 22m,7.5,30
+The Captives,sci-fi,1h 13m,3.5,65
+Miracle Mirrors,sci-fi,1h 43m,6.5,107
+Double Ismart,sci-fi,2h 36m,2.9,N/A
+Aiden,sci-fi,1h 14m,2.6,116
+Kaiju Glam Metal Shark Attack,sci-fi,N/A,6.2,24
+Rani Rani Rani,sci-fi,1h 37m,7.5,18
+Hinter dem Eisernen Horizont,sci-fi,1h 28m,7.6,12
+The Predators,sci-fi,N/A,N/A,N/A
+The Sanctum,sci-fi,50m,N/A,N/A
+Planetquake,sci-fi,1h 25m,3.0,282
+Something in the Dark,sci-fi,1h 27m,7.2,22
+Honshin,sci-fi,2h 2m,6.5,25
+Transformers Prime: Galavatron's Revenge,sci-fi,1h 44m,N/A,N/A
+Touch,sci-fi,1h 3m,8.0,10
+Hidden Memories,sci-fi,1h 24m,5.9,31
+Astral Plane Drifter,sci-fi,N/A,8.0,12
+A Coffin of Stars,sci-fi,1h 40m,N/A,N/A
+Tees,sci-fi,2h 22m,7.4,8
+Heavens: The Boy and His Robot,sci-fi,1h 38m,6.3,21
+The Human Hibernation,sci-fi,1h 30m,6.4,61
+The Worlds Divide,sci-fi,2h,8.0,36
+Replika,sci-fi,2h 5m,5.2,41
+Daha Iyi Bir Yarin,sci-fi,1h 48m,6.5,59
+Skinjacker,sci-fi,N/A,6.6,13
+Mame snova 17,sci-fi,1h 48m,5.5,171
+O Melhor dos Mundos,sci-fi,1h 10m,6.3,42
+Room 0,sci-fi,1h 42m,3.1,208
+The Lonely Musketeer,sci-fi,N/A,7.4,10
+Transient,sci-fi,1h 36m,6.3,274
+The Immortal Wars: Dekay's Paradox,sci-fi,N/A,N/A,N/A
+Prishelets,sci-fi,1h 13m,5.5,146
+Je Suis Auto,sci-fi,N/A,N/A,N/A
+Adresi Olmayan Ev,sci-fi,1h 36m,5.6,29
+Weapon,sci-fi,2h,5.5,N/A
+Boreal,sci-fi,1h 22m,8.5,6
+Panic,sci-fi,N/A,2.2,21
+Gravediggers,sci-fi,1h 31m,6.6,26
+The Deadly Swarm,sci-fi,1h 21m,2.4,184
+Franta mimozemstan,sci-fi,1h 38m,4.7,71
+Vampire's House of Cain,sci-fi,N/A,4.0,17
+Zenith,sci-fi,1h 14m,6.0,29
+Psychopomp,sci-fi,1h 36m,N/A,N/A
+Agrinai,sci-fi,1h 33m,7.9,66
+Ascension,sci-fi,1h 37m,3.9,27
+Nanoshark,sci-fi,N/A,5.4,18
+Pandasaurus,sci-fi,1h 18m,3.6,52
+H010N,sci-fi,N/A,N/A,N/A
+Peas and Carrots,sci-fi,1h 36m,N/A,N/A
+Day of the Clones,sci-fi,1h 38m,4.0,59
+The Washer,sci-fi,1h 30m,7.5,9
+The Eye of the Salamander,sci-fi,1h 21m,7.9,20
+Andromeda 3,sci-fi,N/A,3.4,92
+Kuramerukagari,sci-fi,1h 1m,5.8,79
+Red vs. Blue: Restoration,sci-fi,1h 25m,5.6,135
+I Am Spaceman,sci-fi,N/A,8.1,51
+Telekinesis,sci-fi,1h 46m,5.9,59
+Dead Dead Demon's Dededede Destruction Zenpen,sci-fi,2h,7.0,137
+Milestone,sci-fi,1h 28m,8.2,15
+Kade,sci-fi,1h 32m,6.5,15
+The Broadcast,sci-fi,23m,N/A,N/A
+Killer Kabbage,sci-fi,1h 34m,N/A,N/A
+Perspectiva,sci-fi,1h 30m,6.2,96
+Yesterday After Tomorrow,sci-fi,2h,5.2,310
+Quantum Suicide,sci-fi,1h 27m,5.9,15
+Mama,sci-fi,1h 40m,8.5,7
+Max Beyond,sci-fi,1h 33m,6.6,17
+Spotlight International Film Festival: Best of the Festival - Volume 1,sci-fi,N/A,8.6,6
+43 Degrees North,sci-fi,N/A,N/A,N/A
+Dead Talk Tales: Volume I,sci-fi,1h 38m,6.6,26
+23 Horas,sci-fi,N/A,7.6,17
+Piraty galaktiki Barrakuda,sci-fi,1h 32m,4.4,78
+Iron Nest of the Moon,sci-fi,1h 10m,7.6,13
+Tokusou Sentai Dekaranger 20th: Fireball Booster,sci-fi,50m,7.1,29
+Inazuma Eleven Movie: The Legendary Kickoff,sci-fi,N/A,N/A,N/A
+The Spaceman,sci-fi,1h 25m,N/A,N/A
+Tales Beyond the Galaxy,sci-fi,1h 16m,5.5,146
+"The Girl, the Hunter & the Firefly",sci-fi,1h 38m,7.3,19
+The Other Side of Infinity,sci-fi,1h 36m,N/A,N/A
+Friends of Sophia,sci-fi,25m,5.9,14
+Moon Ghost Returns,sci-fi,N/A,6.7,20
+Untied,sci-fi,1h 44m,8.0,28
+Estación Wadley,sci-fi,1h 36m,N/A,N/A
+Lunar Lockdown,sci-fi,1h 39m,5.3,76
+ON i Ona,sci-fi,1h 30m,6.6,9
+Apocalypse Love,sci-fi,N/A,N/A,N/A
+Brush of the God,sci-fi,1h 14m,6.5,13
+Video Vision,sci-fi,1h 18m,5.9,20
+Jurassic Exorcist,sci-fi,1h 16m,3.9,20
+Life with Quincy 3,sci-fi,1h 13m,N/A,N/A
+Reversi,sci-fi,2h 15m,8.4,99
+Silent Island: Strange Beasts,sci-fi,N/A,N/A,N/A
+Adam i Eva,sci-fi,1h 35m,5.1,92
+Shi Ren Yu,sci-fi,1h 11m,2.5,8
+ReUniverse,sci-fi,1h 40m,N/A,N/A
+Flashlight,sci-fi,1h 17m,4.2,11
+Slasher House 3,sci-fi,N/A,4.4,64
+Iravin Kangal,sci-fi,1h 56m,8.1,171
+After Link,sci-fi,14m,7.5,20
+Alien Love,sci-fi,1h 15m,5.4,53
+Mobile Suit Gundam: Silver Phantom,sci-fi,1h 30m,6.1,13
+Seeking the King,sci-fi,N/A,N/A,N/A
+Zero Sum Game,sci-fi,N/A,N/A,N/A
+Code Geass: Rozé of the Recapture - Part 1,sci-fi,1h 14m,7.9,39
+The Trail,sci-fi,1h 20m,7.2,18
+Spillover,sci-fi,2h 10m,N/A,N/A
+Kantil,sci-fi,2h,N/A,N/A
+Alien AI: Abducted,sci-fi,N/A,3.3,73
+Vstretimsya vchera,sci-fi,1h 19m,6.4,340
+Biónica,sci-fi,1h 22m,7.2,7
+Abduction: The Harvesting,sci-fi,N/A,4.9,11
+Blue Caveman,sci-fi,N/A,N/A,N/A
+Darshini,sci-fi,2h,8.8,N/A
+Boomerang,sci-fi,2h 14m,7.3,385
+Man vs Phone,sci-fi,1h 26m,N/A,N/A
+Quadrant: Noir Version,sci-fi,1h 13m,7.0,9
+Decibel,sci-fi,N/A,4.7,6
+Adabana,sci-fi,1h 58m,N/A,N/A
+The Film Café,sci-fi,N/A,N/A,N/A
+Indrani: Epic-1 Dharam vs Karam,sci-fi,2h 37m,7.6,N/A
+Behind the Bucket: A Garrison Story,sci-fi,N/A,8.1,15
+Tobias and the Arcane Merchant,sci-fi,2h 47m,9.0,42
+Between Time and Space: E.S.T.,sci-fi,2h,N/A,N/A
+Ogiva: O Mundo Não é Mais Nosso,sci-fi,1h 20m,5.6,29
+Back to 2005,sci-fi,1h 28m,8.3,45
+She's God: The Book of Eden,sci-fi,N/A,N/A,N/A
+Habitat,sci-fi,N/A,N/A,N/A
+Megalodon Returns,sci-fi,N/A,3.7,8
+Submerged,sci-fi,1h 40m,N/A,N/A
+Sith Wars: Episódio III - Fantasmas Dos Sith,sci-fi,1h 39m,8.6,113
+The Box,sci-fi,N/A,N/A,N/A
+Gasmask Girl,sci-fi,56m,N/A,N/A
+Tape 52,sci-fi,1h 10m,N/A,N/A
+Spelonk,sci-fi,N/A,N/A,N/A
+Horse with No Name,sci-fi,1h 12m,7.7,11
+The Uncertainty Principle,sci-fi,1h 29m,7.9,10
+Zegapain STA,sci-fi,1h 30m,N/A,N/A
+Bright Forests,sci-fi,15m,N/A,N/A
+Neon Girls,sci-fi,N/A,7.6,31
+Cloud Chamber,sci-fi,1h 54m,N/A,N/A
+Quantum Supremacy,sci-fi,1h 10m,N/A,N/A
+Asker Zon,sci-fi,1h 49m,N/A,N/A
+Devi Danger,sci-fi,1h 39m,N/A,N/A
+Doctor Cerebro,sci-fi,N/A,8.3,11
+Kadaisi Ulaga Por,sci-fi,2h 20m,6.2,N/A
+Bloody Escape,sci-fi,1h 40m,6.1,25
+Deified the Legacy of Yesterday,sci-fi,N/A,9.4,23
+The Burned Hand,sci-fi,1h 25m,8.0,12
+Stock Shark,sci-fi,47m,7.2,53
+Reset,sci-fi,1h 35m,N/A,N/A
+AN,sci-fi,N/A,6.4,11
+Los visitados,sci-fi,N/A,7.6,5
+TapewormZ,sci-fi,N/A,5.0,23
+Waning Poetic,sci-fi,1h 33m,8.4,11
+Uncanny Alley: A New Day,sci-fi,1h,N/A,N/A
+Payback: Movie,sci-fi,N/A,N/A,N/A
+What Lies Within,sci-fi,1h 30m,5.3,13
+After the Thunderstorm,sci-fi,1h 25m,N/A,N/A
+Sounds Like A Great Project!,sci-fi,1h 15m,N/A,N/A
+Sathur,sci-fi,N/A,7.9,9
+Cose nere,sci-fi,1h 23m,N/A,N/A
+The Clearing,sci-fi,N/A,4.0,35
+I Watched Her Grow,sci-fi,1h 7m,N/A,N/A
+Inazuma Eleven the Movie: Prologue to the New Heroes,sci-fi,N/A,N/A,N/A
+Trap,sci-fi,1h 58m,3.3,15
+In Your Own Time,sci-fi,1h,N/A,N/A
+The Codfather,sci-fi,1h 30m,N/A,N/A
+Project Alexander,sci-fi,2h 5m,N/A,N/A
+Code Geass: Rozé of the Recapture: Part 2,sci-fi,1h 16m,8.1,24
+Astra,sci-fi,1h 20m,6.8,8
+The 9th Raider,sci-fi,1h 45m,N/A,N/A
+JEIT,sci-fi,1h 10m,N/A,N/A
+Project 405: Lost at Sea,sci-fi,N/A,N/A,N/A
+Gumshoe Jon and the Mystery of the Saucer Men - The Even Better Version,sci-fi,N/A,N/A,N/A
+ARI,sci-fi,N/A,N/A,N/A
+Secret Within the Sphere,sci-fi,1h 13m,7.8,19
+Fake Out Fray,sci-fi,1h 6m,N/A,N/A
+I 20,sci-fi,1h 54m,9.1,493
+Four Singles,sci-fi,1h 3m,N/A,N/A
+Be Forever Yamato: Rebel 3199: Part 1: Dark Invasion,sci-fi,50m,7.0,9
+Kohinoor,sci-fi,1h 59m,8.1,22
+Guacamole Yesterdays,sci-fi,N/A,8.6,14
+Soul Traveler (The Feature),sci-fi,1h 36m,4.2,21
+The Harvester,sci-fi,N/A,N/A,N/A
+Madness Unplugged,sci-fi,17m,N/A,N/A
+Interview with an Android,sci-fi,1h 20m,N/A,N/A
+La Familia del Barrio: La Película,sci-fi,N/A,4.0,6
+Reptilians: Serpent Kings and Ancient Rulers,sci-fi,3h 14m,N/A,N/A
+They're Here,sci-fi,1h 14m,N/A,N/A
+Fragment,sci-fi,N/A,N/A,N/A
+Implanted,sci-fi,1h 22m,N/A,N/A
+A Cápsula,sci-fi,1h 32m,6.4,5
+Twenty,sci-fi,1h 5m,N/A,N/A
+Best Cop Ever,sci-fi,2h 2m,4.3,49
+404.01,sci-fi,1h 45m,404.0,N/A
+Remat,sci-fi,N/A,N/A,N/A
+A-Side: Suburban,sci-fi,45m,N/A,N/A
+Stories for the Mind,sci-fi,49m,N/A,N/A
+Insomniac,sci-fi,1h,N/A,N/A
+A Divorce Story,sci-fi,1h 18m,N/A,N/A
+Bharatiya Superheroes the Origin,sci-fi,N/A,8.9,62
+Be Forever Yamato: Rebel 3199: Part 2: The Assault of the Burning Sun,sci-fi,1h 37m,N/A,N/A
+The New Ark,sci-fi,N/A,N/A,N/A
+Aliens Uncovered: The Land of Legends,sci-fi,N/A,8.9,9
+Maddhim,sci-fi,N/A,9.3,23
+Daughters of Monster Magnet,sci-fi,46m,N/A,N/A
+Fragmentos de Olvido,sci-fi,1h 34m,N/A,N/A
+Don't Say Earth,sci-fi,N/A,3.7,14
+Aliens Uncovered: UFOs Over Arizona,sci-fi,1h 56m,8.4,16
+A..C.A,sci-fi,52m,N/A,N/A
+Kek 2,sci-fi,1h 38m,N/A,N/A
+Someone Dies!,sci-fi,1h 26m,7.3,12
+The Choice,sci-fi,40m,N/A,N/A
+Owari ni Mita Machi,sci-fi,N/A,N/A,N/A
+The Suit,sci-fi,1h 30m,N/A,N/A
+Through the Graves the Wind Is Blowing,sci-fi,1h 20m,7.1,70
+Alien Love: Deleted Scenes,sci-fi,7m,8.6,10
+Alien Attack at Groom Lake,sci-fi,1h 11m,N/A,N/A
+A Time Traveler 2492: Episode III,sci-fi,N/A,N/A,N/A
+Big/Bad/Wolf,sci-fi,N/A,N/A,N/A
+The Winter Prophecy,sci-fi,52m,7.9,13
+High Strangeness,sci-fi,N/A,N/A,N/A
+Mertsanie,sci-fi,1h 32m,5.8,17
+Mars Has Eyes,sci-fi,1h 10m,N/A,N/A
+Planetagatik,sci-fi,9h 39m,N/A,N/A
+Venus DIE-Trap,sci-fi,N/A,N/A,N/A
+Science Friction,sci-fi,1h 30m,N/A,N/A
+He Has Gone Rogue - The Return of Cyrus,sci-fi,1h,8.8,32
+Zombie Apocalypse News,sci-fi,1h 28m,N/A,N/A
+Code Geass: Rozé of the Recapture: Part 3,sci-fi,1h 16m,7.7,22
+The Zodian Gemini,sci-fi,N/A,N/A,N/A
+Your Final Meditation,sci-fi,N/A,N/A,N/A
+2015: Future Uncertain,sci-fi,1h 12m,6.9,17
+The Truth on Sendai City,sci-fi,1h 13m,N/A,N/A
+Bragow,sci-fi,2h,N/A,N/A
+The Wrong Opp,sci-fi,N/A,N/A,N/A
+True Dark,sci-fi,N/A,N/A,N/A
+Squelch,sci-fi,1h 32m,N/A,N/A
+The Last Man on the World,sci-fi,1h 10m,N/A,N/A
+Tsena doveriya,sci-fi,1h 23m,5.8,27
+Code Geass: Rozé of the Recapture: Part 4,sci-fi,1h 10m,7.0,12
+95B,sci-fi,1h 42m,N/A,N/A
+Isle: Alpha One,sci-fi,1h 37m,8.4,7
+Sathur: Part1,sci-fi,N/A,N/A,N/A
+El Salto,sci-fi,N/A,N/A,N/A
+Tin: Parabiosis,sci-fi,1h 30m,N/A,N/A
+Superman: Jubilation,sci-fi,2h 56m,N/A,N/A
+They Sting,sci-fi,N/A,N/A,N/A
+RiffTrax: Xtro 3: Watch the Skies,sci-fi,1h 24m,N/A,N/A
+Kyle and the Last Emerald 2,sci-fi,15m,8.4,7
+The Magic Denarious,sci-fi,N/A,N/A,N/A
+Of Mummies and Martians,sci-fi,N/A,N/A,N/A
+Astrosphere,sci-fi,N/A,N/A,N/A
+Energy in the Rain,sci-fi,N/A,N/A,N/A
+A Time Traveler 2492: Apocalypse,sci-fi,N/A,N/A,N/A
+2053 - A Best Case Scenario,sci-fi,58m,N/A,N/A
+Negative Worlds,sci-fi,1h 24m,N/A,N/A
+I'm Unbreakable,sci-fi,43m,N/A,N/A
+Tomorrow Is Another Dream,sci-fi,1h 20m,6.5,16
+Captain Corpse,sci-fi,1h 45m,7.6,10
+Macproud,sci-fi,N/A,N/A,N/A
+Aquele que Viu o Abismo,sci-fi,1h 10m,N/A,N/A
+Behind the Light,sci-fi,1h 45m,N/A,N/A
+Nothingness,sci-fi,1h 6m,N/A,N/A
+Time to Go,sci-fi,N/A,N/A,N/A
+The Future Soul,sci-fi,2h 10m,N/A,N/A
+ETA,sci-fi,17m,N/A,N/A
+Gut Instinct,sci-fi,1h 24m,6.4,9
+In Unison,sci-fi,1h 40m,N/A,N/A
+Telos I,sci-fi,22m,N/A,N/A
+Book of Veil,sci-fi,N/A,N/A,N/A
+Singapur,sci-fi,N/A,N/A,N/A
+Systems Research,sci-fi,1h 15m,N/A,N/A
+When the Sun Stands Still,sci-fi,1h 35m,N/A,N/A
+Trident : The Beginning,sci-fi,1h 5m,N/A,N/A
+Faithless,sci-fi,N/A,N/A,N/A
+El origen de las especies,sci-fi,1h 11m,N/A,N/A
+Acceleration Horology,sci-fi,N/A,N/A,N/A
+Karl Marx Falls in Love with the Leonidas Zegarra House Museum,sci-fi,2h,N/A,N/A
+Initiation,sci-fi,N/A,N/A,N/A
+Down the Rabbit Hole: Reflections of the Matrix,sci-fi,N/A,N/A,N/A
+Wo Kan Jian Liang Duo Yi Yang de Yun,sci-fi,N/A,N/A,N/A
+Planet Magnon,sci-fi,1h 32m,N/A,N/A
+Aliens Uncovered: The Thunder God,sci-fi,N/A,8.5,8
+Bob's Hops,sci-fi,1h 30m,N/A,N/A
+A Blissful Filmmaker Known as Karl Marx,sci-fi,1h 46m,N/A,N/A
+Dublê de Namorado,sci-fi,1h 35m,N/A,N/A
+7 Vidas,sci-fi,1h 20m,N/A,N/A
+Nothing is 100%,sci-fi,N/A,N/A,N/A
+Isolation Zone 5,sci-fi,1h 28m,N/A,N/A
+Aberracja,sci-fi,1h 7m,N/A,N/A
+Terrors,sci-fi,1h 5m,N/A,N/A
+Super Beef,sci-fi,N/A,N/A,N/A
+Sooraya Weeraya,sci-fi,N/A,N/A,N/A
+Grietas,sci-fi,10m,N/A,N/A
+A Party for Karl Marx,sci-fi,1h 14m,N/A,N/A
+Prologue: Thalassophilia - A Cryptograph in Three Acts,sci-fi,15m,N/A,N/A
+A Conceptual Artist Called Karl Marx,sci-fi,1h 19m,N/A,N/A
+Haze,sci-fi,N/A,N/A,N/A
+The Clashing Elements: Saviors of the Multiverse,sci-fi,1h 31m,6.6,7
+The Colony - Vol. 1,sci-fi,1h 30m,N/A,N/A
+TIN - Time Lord Society 10 Year Anniversary,sci-fi,50m,N/A,N/A
+Karl Marx Looks for Fans,sci-fi,1h 21m,N/A,N/A
+Starship,sci-fi,1h 14m,N/A,N/A
+The Hay Man,sci-fi,1h 14m,N/A,N/A
+The New Flesh,sci-fi,1h 2m,N/A,N/A
+Man of Tomorrow,sci-fi,N/A,N/A,N/A
+Los incrédulos,sci-fi,N/A,N/A,N/A
+Morana,sci-fi,1h 59m,6.2,26
+The Divinity of a City,sci-fi,1h 4m,N/A,N/A
+Space Coast Confidential,sci-fi,N/A,N/A,N/A
+Nonm,sci-fi,N/A,N/A,N/A
+The Jump,sci-fi,45m,N/A,N/A
+Precient,sci-fi,1h 21m,N/A,N/A
+Zen Fist,sci-fi,45m,7.2,8
+The Fade: Rebellion,sci-fi,N/A,N/A,N/A
+Lapse,sci-fi,N/A,N/A,N/A
+Operation Terra Sol -3,sci-fi,N/A,N/A,N/A
+StarGazer: The Need of the Many,sci-fi,47m,5.0,9
+Loreley Part II: Monster,sci-fi,56m,N/A,N/A
+"Minsky, the little helper robot",sci-fi,6m,N/A,N/A
+Phaseland,sci-fi,N/A,N/A,N/A
+Blade Runner Story,sci-fi,N/A,N/A,N/A
+5 More Minutes,sci-fi,N/A,N/A,N/A
+Cordélicos,sci-fi,1h 8m,N/A,N/A
+The Bostrom Scenario,sci-fi,1h 53m,N/A,N/A
+Demons vs. Ghosts,sci-fi,1h 32m,N/A,N/A
+Réfractions,sci-fi,1h 3m,N/A,N/A
+Cat Pupa,sci-fi,1h 28m,N/A,N/A
+Personal Reset,sci-fi,N/A,8.8,11
+S.N.S.O.B - Supernatural Squad of Badasses Part 1,sci-fi,N/A,N/A,N/A
+Lycos 1,sci-fi,1h,N/A,N/A
+Eden Prime Codename Atlas,sci-fi,N/A,N/A,N/A
+1710 Bunker Hill Avenue,sci-fi,N/A,N/A,N/A
+O Seeker,sci-fi,19m,N/A,N/A
+The Blinkless,sci-fi,59m,7.8,12
+Voodoonaut,sci-fi,2h 22m,N/A,N/A
+Pharmakon - O Show da Destruição,sci-fi,1h 10m,N/A,N/A
+El Sueño de Ariana,sci-fi,1h 27m,N/A,N/A
+SITV Presents: Tabsentia,sci-fi,1h 20m,N/A,N/A
+She Came! (From Outer Space),sci-fi,48m,N/A,N/A
+PW V: Tears of the Fallen,sci-fi,1h,8.2,11
+Fredrick the Alien: Remastered,sci-fi,1h 2m,N/A,N/A
+Carjorski Clan: Tale of the Fallen Knight,sci-fi,N/A,N/A,N/A
+LOST: Avalon Station,sci-fi,N/A,N/A,N/A
+Gostya iz kosmosa,sci-fi,1h 10m,8.5,6
+One level higher,sci-fi,N/A,N/A,N/A
+Nuclear Priest,sci-fi,1h 17m,N/A,N/A
+Repeindre le ciel,sci-fi,31m,N/A,N/A
+The bog goggles of a junkie's fit,sci-fi,1h,N/A,N/A
+Miss Roboto,sci-fi,N/A,N/A,N/A
+Synthium,sci-fi,1h 27m,N/A,N/A
+Them Time,sci-fi,N/A,N/A,N/A
+Alice in Cyberworld,sci-fi,1h 15m,N/A,N/A
+Worship,sci-fi,1h 15m,N/A,N/A
+Alien Origin,sci-fi,N/A,N/A,N/A
+Parhelion,sci-fi,1h 30m,N/A,N/A
+Plastic,sci-fi,1h 2m,N/A,N/A
+Mars Shark: Dark Matter,sci-fi,N/A,N/A,N/A
+The Apples Gang: The Movie by Wright,sci-fi,N/A,N/A,N/A
+Recall 126,sci-fi,53m,N/A,N/A
+the time arc,sci-fi,1h 18m,N/A,N/A
