@@ -67,8 +67,6 @@ streamlit run streamlit_app.py
 ## 🤝 Contributing
 Feel free to submit **issues** and **pull requests**! 🎉
 
-## 📜 License
-MIT License. See [LICENSE](LICENSE) for details.
 
 ---
 🚀 **Built with ❤️ using Python, Streamlit, and TiDB Cloud!**
